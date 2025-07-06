@@ -1,0 +1,20 @@
+# === Node.js (backend - server) ===
+server/node_modules/
+server/.env
+server/logs
+server/*.log
+server/package-lock.json
+
+# === React (frontend - client) ===
+clean-client/node_modules/
+clean-client/.env
+clean-client/build/
+clean-client/.DS_Store
+clean-client/package-lock.json
+
+# System files
+.DS_Store
+*.log
+
+# Editor settings
+.vscode/
