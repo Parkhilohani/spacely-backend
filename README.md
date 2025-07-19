@@ -39,3 +39,10 @@ smart-study-planner/
 ├── server/
 ├── .gitignore
 ├── README.md
+
+<img width="1887" height="952" alt="spacely-img4" src="https://github.com/user-attachments/assets/7d0da33e-769e-4f4a-a13f-55a48979ac09" />
+
+<img width="1855" height="986" alt="spacely-img5" src="https://github.com/user-attachments/assets/e0fd9ceb-9cfa-4f9d-83a0-bc88031ccb3b" />
+
+<img width="1832" height="960" alt="spacely-img6" src="https://github.com/user-attachments/assets/13f9c984-9bc6-4e3c-8143-799f9b010995" />
+
